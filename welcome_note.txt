@@ -1,6 +1,6 @@
 hello this is nihar here.
 how are you my friend.
 
-this is new text 
+this is new text for 2.5 version 
 
-version = 2.0
+version = 2.5

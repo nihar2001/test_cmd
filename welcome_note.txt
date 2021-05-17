@@ -1,6 +1,0 @@
-hello this is nihar here.
-how are you my friend.
-
-this is new text for 2.5 version 
-
-version = 2.5

@@ -3,10 +3,7 @@ how are you my friend.
 
 this is new text 
 
-<<<<<<< HEAD
 version = 3.5
-=======
 version = 4.0
 
 here you will get something new
->>>>>>> side1
